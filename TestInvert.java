@@ -1,5 +1,5 @@
-//CPS842 Assignment 1
-//Brittany Ally (500827731)
+//test file A1
+//Brittany Ally
 
 /* 
  Purpose of this program is to test the output dic and postings file from

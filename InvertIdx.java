@@ -1,5 +1,5 @@
-//CPS842 Assignment 2
-//Brittany Ally (500827731)
+//A2
+//Brittany Ally
 
 import java.io.*;
 import java.util.*;

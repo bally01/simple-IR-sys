@@ -1,5 +1,5 @@
 # simple-IR-sys
-Simple IR system on CACM set documents created for my Information Retrival and Websearch class as part of an assignment.
+Simple IR system on CACM set documents made from scratch created for my Information Retrival and Websearch class as part of an assignment.
 Contains programs to create an Inverted Index and programs to Search through the documents with keywords, sentences, and questions.
 
 InvertIdx.java -- creates Inverted index for all doc in the set
